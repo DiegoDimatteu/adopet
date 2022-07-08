@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "187258392512",
+    "project_id": "adocao-pet",
+    "storage_bucket": "adocao-pet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187258392512:android:9a75bdd755ffe92f5a0225",
+        "android_client_info": {
+          "package_name": "com.example.adocao_de_pet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187258392512-gbp1q75jjcjn74rnbhk3413gi26qj96j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVKV-e3xkwmTayQcHWp29Sz6ekoimfgoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187258392512-gbp1q75jjcjn74rnbhk3413gi26qj96j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "187258392512-lh8h7ddsf5ga3e57546fn4tg5kjbegjo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.adocaoDePet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
