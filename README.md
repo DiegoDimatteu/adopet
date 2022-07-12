@@ -2,7 +2,7 @@
 App para controle de pets para uma ONG de Adoção de Animais.
 
 Projeto consiste em pegar dados das seguintes API's:
- - [API dos cachorro;](https://www.thedogapi.com/)
+ - [API dos cachorros;](https://www.thedogapi.com/)
  - [API dos gatos.](https://thecatapi.com/)
 
 
